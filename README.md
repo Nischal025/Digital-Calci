@@ -1,10 +1,10 @@
-##Digital-Calculator
+## Digital-Calculator
 The Digital Calculator is designed to perform basic and advanced mathematical operations with a user-friendly and intuitive interface.
 
-##Digital Calculator Project
+## Digital Calculator Project
 This fully functional digital calculator showcases my skills in software development. The project features a clean design, seamless functionality, and a focus on accuracy and user experience.
 
-##Project Overview
+## Project Overview
 The Digital Calculator includes:
 
 Basic Operations: Perform addition, subtraction, multiplication, and division with ease.
@@ -17,13 +17,13 @@ Intuitive UI: Designed with Figma for a visually appealing and accessible interf
 Scalability: Built with flexibility to add more advanced functionalities in the future.
 Getting Started
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Contributing
+## Contributing
 As this is a personal project, contributions are not accepted. However, feedback and suggestions are always welcome. You can contact me directly for any ideas or improvements.
 
-##Contact
+## Contact
 You can reach me via:
 
 Email: nischal0205@gmail.com
